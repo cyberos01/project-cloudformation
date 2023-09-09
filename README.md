@@ -14,3 +14,5 @@ the live blog
 * Configure the WordPress instance for development and testing
 purposes, which will be available only for business hours (9 AM–6 PM)
 * Monitor the health of the WordPress instance
+
+  ## Task (Activities)
