@@ -39,3 +39,11 @@ Skills used in the project and their usage in the industry are given below:
 4. Configure the new WordPress instance to shut down automatically
    
 5. Monitor the instance using Availability Monitoring feature of the R53
+
+### Project Reference
+
+* Task 1: Create a CloudFormation stack
+* Task 2: Create an AMI of the WordPress instance
+* Task 3: Configure Auto Scaling to launch a new WordPress instance
+* Task 4: Configure the new WordPress instance to shut down automatically 
+• Task 5: Monitor the instance using Availability Monitoring feature of the R53
