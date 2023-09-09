@@ -23,6 +23,6 @@ Skills used in the project and their usage in the industry are given below:
 
 **AWS console:** The AWS Management Console is a web application that includes and references several service consoles for managing AWS services.
 
-**AWS CloudFormation:** It is a service that aids users in modeling and configuring their AWS resources so they can focus more on their AWS￾based apps and spend less time maintaining those resources. 
+**AWS CloudFormation:** It is a service that aids users in modeling and configuring their AWS resources so they can focus more on their AWS based apps and spend less time maintaining those resources. 
 
 **EC2 Instance:** Amazon EC2 provides a large set of instance types that are customized to certain use cases. 
