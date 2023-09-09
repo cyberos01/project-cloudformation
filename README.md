@@ -18,6 +18,7 @@ purposes, which will be available only for business hours (9 AM–6 PM)
 
 ## Industry Relevance
 Skills used in the project and their usage in the industry are given below:
+
 ** * AWS console:** The AWS Management Console is a web application that 
 includes and references several service consoles for managing AWS 
 services.
