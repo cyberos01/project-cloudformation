@@ -26,3 +26,16 @@ Skills used in the project and their usage in the industry are given below:
 **AWS CloudFormation:** It is a service that aids users in modeling and configuring their AWS resources so they can focus more on their AWS based apps and spend less time maintaining those resources. 
 
 **EC2 Instance:** Amazon EC2 provides a large set of instance types that are customized to certain use cases. 
+
+
+**Task (Activities)**
+
+1. Create a CloudFormation stack
+   
+2. Create an AMI of the WordPress instance
+   
+3. Configure Auto Scaling to launch a new WordPress instance
+   
+4. Configure the new WordPress instance to shut down automatically
+   
+5. Monitor the instance using Availability Monitoring feature of the R53
