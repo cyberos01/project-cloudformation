@@ -28,7 +28,7 @@ Skills used in the project and their usage in the industry are given below:
 **EC2 Instance:** Amazon EC2 provides a large set of instance types that are customized to certain use cases. 
 
 
-**Task (Activities)**
+## **Task (Activities)**
 
 1. Create a CloudFormation stack
    
