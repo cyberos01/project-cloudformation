@@ -16,4 +16,4 @@ purposes, which will be available only for business hours (9 AM–6 PM)
 * Monitor the health of the WordPress instance
 
   ## Task (Activities)
-1. Create a CloudFormation stack
+## 1. Create a CloudFormation stack
